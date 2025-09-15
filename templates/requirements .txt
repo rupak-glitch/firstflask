@@ -30,7 +30,6 @@ threadpoolctl==3.6.0
 tzdata==2025.2
 urllib3==2.5.0
 Werkzeug==3.1.3
-(myvenv) PS C:\Users\Dell\Downloads\python\flask> pip freeze requirements2.txt
 blinker==1.9.0
 certifi==2025.8.3
 charset-normalizer==3.4.3
